@@ -103,7 +103,7 @@ nav {
     align-items: center;
     justify-content: center;
     height: 400px;
-    background-image: url('/img/profilo.png');
+    background-image: url('profilo.png');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
